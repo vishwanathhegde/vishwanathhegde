@@ -21,9 +21,9 @@
 
 I’m a **Software Developer with 3+ years of industry experience**, specializing in **Angular and Flutter**, currently pursuing my **Master’s in Applied Computer Science in Germany**.
 
-I’ve worked on **production-scale fintech and healthcare applications**, handled **end-to-end development**, and managed **Android & iOS releases** on the **App Store and Google Play**.
+I’ve worked on **production-scale fintech and healthcare applications**, contributed to **end-to-end development**, and handled **Android & iOS deployments** on the **App Store and Google Play**.
 
-I’m currently seeking a **Working Student / Internship role** where I can contribute to real-world products and grow in a high-impact engineering environment.
+I’m currently seeking a **Working Student or Internship** role to contribute to impactful software products while continuing to grow as an engineer.
 
 ---
 
@@ -32,11 +32,11 @@ I’m currently seeking a **Working Student / Internship role** where I can cont
 ### 🏢 Robosoft Technologies — Software Engineer  
 📍 India | 🗓️ Aug 2022 – Sep 2025  
 
-- Developed and maintained **large-scale Angular & Flutter applications**
-- Implemented **Google Analytics**, increasing user engagement by ~20%
-- Worked on **transaction & non-transaction flows** in fintech products
-- Managed **builds, deployments, and releases** for Android & iOS
-- Participated in **code reviews, sprint planning, and client discussions**
+- Built and maintained **large-scale Angular & Flutter applications**
+- Implemented **Google Analytics**, improving engagement by ~20%
+- Developed **transaction & non-transaction flows** in fintech products
+- Managed **Android & iOS builds, releases, and maintenance**
+- Actively participated in **code reviews, sprint planning, and client calls**
 
 ---
 
@@ -44,14 +44,14 @@ I’m currently seeking a **Working Student / Internship role** where I can cont
 
 **💰 PGIM India Mutual Funds (Angular)**  
 - SIP, Lumpsum & Self-Certification flows  
-- Angular version upgrade for better performance & maintainability  
+- Angular version upgrade for performance & maintainability  
 
 **🏥 Afiya – Healthcare App (Flutter)**  
 - Appointment booking & admin dashboard  
-- Push notifications and analytics integration  
+- Push notifications & analytics integration  
 
 **📊 UTI Mutual Fund (Flutter)**  
-- Smart search, goal planning, transaction flows  
+- Smart search, goal planning & transaction flows  
 - Performance optimization & release support  
 
 ---
@@ -59,29 +59,114 @@ I’m currently seeking a **Working Student / Internship role** where I can cont
 ## ⚙️ Tech Stack
 
 ### 🧠 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,dart,html,css" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><strong>TypeScript</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br/><strong>JavaScript</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=dart" width="48"/><br/><strong>Dart</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br/><strong>HTML5</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br/><strong>CSS3</strong>
+</td>
+</tr>
+</table>
+
+---
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,flutter,ionic,tailwind,bootstrap" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=angular" width="48"/><br/><strong>Angular</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=flutter" width="48"/><br/><strong>Flutter</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ionic" width="48"/><br/><strong>Ionic</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><strong>Tailwind CSS</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/><strong>Bootstrap</strong>
+</td>
+</tr>
+</table>
 
-### 🔧 State & Architecture
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rxjs" />
-</p>
+---
+
+### 🧩 State & Architecture
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=rxjs" width="48"/><br/><strong>RxJS</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=angular" width="48"/><br/><strong>Angular Architecture</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br/><strong>Clean Architecture</strong>
+</td>
+</tr>
+</table>
+
+---
 
 ### 🛠 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,xcode,postman" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><strong>Git</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br/><strong>GitHub</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br/><strong>GitLab</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><strong>VS Code</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br/><strong>Android Studio</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=xcode" width="48"/><br/><strong>Xcode</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><strong>Postman</strong>
+</td>
+</tr>
+</table>
+
+---
 
 ### 🌐 Backend (Working Knowledge)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><strong>Node.js</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br/><strong>Express.js</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><strong>MySQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><strong>MongoDB</strong>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,19 +174,19 @@ I’m currently seeking a **Working Student / Internship role** where I can cont
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwanathhegde&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwanathhegde&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathhegde&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathhegde&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
 ## 🌍 Languages
-- 🇬🇧 English  
-- 🇮🇳 Hindi  
-- 🇮🇳 Kannada  
-- 🇩🇪 German (Learning)
+- English  
+- Hindi  
+- Kannada  
+- German (Learning)
 
 ---
 
