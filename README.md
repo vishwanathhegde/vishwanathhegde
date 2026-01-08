@@ -1,15 +1,15 @@
 <div align="center">
   
-# 💻 Sindhura Shivaprasad
+# 💻 Vishwanath Hegde
 
 ### Full-Stack Engineer | AI Enthusiast | MSc Web Engineering @ TU Chemnitz
 
 **Currently:** Full-Stack Working Student at Fraunhofer FOKUS, Berlin  
 **Location:** 🌍 Chemnitz, Germany
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sindhura--s-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindhura-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sindhura.vercel.app-FF6B9D?style=flat)](https://sindhura.vercel.app)
-[![Email](https://img.shields.io/badge/Email-sindhurashivaprasad49@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sindhurashivaprasad49@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwanat-Hegde-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwanath-m-hegde/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-sindhura.vercel.app-2F855A?style=flat)](https://sindhura.vercel.app) -->
+[![Email](https://img.shields.io/badge/Email-vishwanathmhegde23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishwanathmhegde23@gmail.com)
 
 ---
 
@@ -65,7 +65,7 @@
 
 ![GraphQL](https://img.shields.io/badge/GraphQL-FF006E?style=for-the-badge&logo=graphql&logoColor=white&labelColor=9333EA)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-00D9FF?style=for-the-badge&logo=graph&logoColor=white&labelColor=9333EA)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B9D?style=for-the-badge&logo=docker&logoColor=white&labelColor=FF006E)
+![Microservices](https://img.shields.io/badge/Microservices-2F855A?style=for-the-badge&logo=docker&logoColor=white&labelColor=FF006E)
 ![AI/LLM](https://img.shields.io/badge/AI%2FLLM-9333EA?style=for-the-badge&logo=brain&logoColor=white&labelColor=00D9FF)
 ![Event-Driven](https://img.shields.io/badge/Event--Driven-00D9FF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=FF006E)
 
@@ -76,7 +76,7 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/🟢-Active%20Development-00FF88?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1a1a)
-![Methodology](https://img.shields.io/badge/Agile%20%7C%20Scrum%20%7C%20Kanban-FF6B9D?style=for-the-badge&logo=check-circle&logoColor=white&labelColor=FF006E)
+![Methodology](https://img.shields.io/badge/Agile%20%7C%20Scrum%20%7C%20Kanban-2F855A?style=for-the-badge&logo=check-circle&logoColor=white&labelColor=FF006E)
 ![Mission](https://img.shields.io/badge/Solving%20Real--World%20Problems-9333EA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=00D9FF)
 
 </div>
@@ -89,9 +89,9 @@
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sindhura492&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishwanathhegde&theme=radical&hide_border=true&background=0D1117&ring=2F855A&fire=2F855A&currStreakLabel=2F855A)
 
-<img alt="Contribution heatmap" src="https://ghchart.rshah.org/FF6B9D/Sindhura492" />
+<img alt="Contribution heatmap" src="https://ghchart.rshah.org/2F855A/vishwanathhegde" />
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindhura492&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathhegde&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F855A&text_color=FFFFFF&include_all_commits=true)
 
 </div>
 
@@ -158,7 +158,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-FF6B9D?style=for-the-badge&logo=convex&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-2F855A?style=for-the-badge&logo=convex&logoColor=white)
 
 </div>
 
@@ -188,7 +188,7 @@
   
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic-Claude-FF6B9D?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic-Claude-2F855A?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-430098?style=for-the-badge&logo=pinecone&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
@@ -213,9 +213,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sindhura492/Sindhura492/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sindhura492/Sindhura492/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sindhura492/Sindhura492/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwanathhegde/vishwanathhegde/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwanathhegde/vishwanathhegde/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishwanathhegde/vishwanathhegde/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -226,7 +226,7 @@
 
 <div align="center">
   
-![Sindhura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sindhura492&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC107&text_color=FFFFFF&include_all_commits=true&count_private=false)
+![Sindhura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwanathhegde&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F855A&icon_color=FFC107&text_color=FFFFFF&include_all_commits=true&count_private=false)
 
 </div>
 
@@ -264,16 +264,16 @@ Thesis: Knowledge Graphs for Cybersecurity Chatbots (Neo4j AuraDB, GPT‑4, RAG)
   
 ### 🌟 "Code is poetry written in logic" 🌟
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sindhura.vercel.app-FF6B9D?style=for-the-badge)](https://sindhura.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sindhura.vercel.app-2F855A?style=for-the-badge)](https://sindhura.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sindhura--s-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindhura-s)
-[![GitHub](https://img.shields.io/badge/GitHub-Sindhura492-181717?style=for-the-badge&logo=github)](https://github.com/Sindhura492)
+[![GitHub](https://img.shields.io/badge/GitHub-vishwanathhegde-181717?style=for-the-badge&logo=github)](https://github.com/vishwanathhegde)
 [![Email](https://img.shields.io/badge/Email-sindhurashivaprasad49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sindhurashivaprasad49@gmail.com)
 
 ---
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=Sindhura492&color=FF6B9D&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=vishwanathhegde&color=2F855A&label=Profile+Views)
 
 Made with ❤️ and lots of ☕ | 3+ years of crafting scalable solutions
 
