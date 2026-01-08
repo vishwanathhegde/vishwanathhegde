@@ -1,14 +1,17 @@
 <div align="center">
 
 # 💻 Vishwanath Hegde
-
-### Software Developer | Angular & Flutter | MSc Applied Computer Science (Germany)
+### Software Developer | Angular & Flutter | MSc Applied Computer Science 🇩🇪
 
 📍 Schmalkalden, Germany  
-🎓 Master’s Student | 💼 Open to Working Student / Internship Roles  
+🎓 Master’s Student | 💼 Open to Working Student / Internship  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwanath_Hegde-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwanath-m-hegde/)
-[![Email](https://img.shields.io/badge/Email-vishwanathmhegde23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishwanathmhegde23@gmail.com)
+<a href="https://www.linkedin.com/in/vishwanath-m-hegde/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vishwanath_Hegde-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vishwanathmhegde23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -18,84 +21,94 @@
 
 I’m a **Software Developer with 3+ years of industry experience**, specializing in **Angular and Flutter**, currently pursuing my **Master’s in Applied Computer Science in Germany**.
 
-I’ve worked on **production-grade mobile and web applications**, contributed to large-scale fintech and healthcare products, and handled **end-to-end app development, deployment, and maintenance** for both **Android and iOS**.
+I’ve worked on **production-scale fintech and healthcare applications**, handled **end-to-end development**, and managed **Android & iOS releases** on the **App Store and Google Play**.
 
-I’m actively looking for a **Working Student or Internship** role where I can contribute to real products and continue growing as a developer.
+I’m currently seeking a **Working Student / Internship role** where I can contribute to real-world products and grow in a high-impact engineering environment.
 
 ---
 
 ## 🧑‍💻 Professional Experience
 
-**Software Engineer — Robosoft Technologies**  
+### 🏢 Robosoft Technologies — Software Engineer  
 📍 India | 🗓️ Aug 2022 – Sep 2025  
 
-- Built and maintained **scalable Angular & Flutter applications** used by thousands of users  
-- Worked on **fintech and healthcare apps** with transaction & non-transaction flows  
-- Implemented **Google Analytics**, improving user engagement by ~20%  
-- Handled **App Store & Play Store deployments**, builds, and releases  
-- Participated in **code reviews, feature planning, and client discussions**
+- Developed and maintained **large-scale Angular & Flutter applications**
+- Implemented **Google Analytics**, increasing user engagement by ~20%
+- Worked on **transaction & non-transaction flows** in fintech products
+- Managed **builds, deployments, and releases** for Android & iOS
+- Participated in **code reviews, sprint planning, and client discussions**
 
 ---
 
-## 📱 Notable Projects
+## 📱 Key Projects
 
-**PGIM India Mutual Funds (Angular)**  
-- Transaction & non-transaction flows (SIP, Lumpsum, Self-Certification)  
-- Led migration to a newer Angular version for performance & maintainability  
+**💰 PGIM India Mutual Funds (Angular)**  
+- SIP, Lumpsum & Self-Certification flows  
+- Angular version upgrade for better performance & maintainability  
 
-**UTI Mutual Fund (Flutter)**  
-- Smart search, push notifications, goal planning flows  
-- Analytics integration & performance optimization  
+**🏥 Afiya – Healthcare App (Flutter)**  
+- Appointment booking & admin dashboard  
+- Push notifications and analytics integration  
 
-**Afiya – Healthcare App (Flutter)**  
-- Appointment booking, admin dashboard, notifications  
-- App builds, reviews, and release management  
+**📊 UTI Mutual Fund (Flutter)**  
+- Smart search, goal planning, transaction flows  
+- Performance optimization & release support  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Languages
-`TypeScript` `JavaScript` `Dart` `HTML` `CSS`
+### 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,html,css" />
+</p>
 
-### Frameworks & Libraries
-`Angular` `Flutter` `Ionic` `RxJS` `Angular Material` `Bootstrap` `Tailwind CSS`
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,flutter,ionic,tailwind,bootstrap" />
+</p>
 
-### Tools
-`Git` `GitHub` `GitLab` `VS Code` `Android Studio` `Xcode`  
-`Postman` `Chrome DevTools` `Jira` `Confluence`
+### 🔧 State & Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rxjs" />
+</p>
 
-### Backend (Working Knowledge)
-`Node.js` `Express.js` `REST APIs`  
-`MySQL` `MongoDB`
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,xcode,postman" />
+</p>
+
+### 🌐 Backend (Working Knowledge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishwanathhegde&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwanathhegde&theme=radical&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathhegde&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathhegde&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
 ## 🌍 Languages
-- English  
-- Hindi  
-- Kannada  
-- German (learning)
+- 🇬🇧 English  
+- 🇮🇳 Hindi  
+- 🇮🇳 Kannada  
+- 🇩🇪 German (Learning)
 
 ---
 
 <div align="center">
 
-📫 **Let’s build something meaningful together**  
-💼 Open to **Working Student / Internship roles in Germany**
+### 🚀 Open to Working Student / Internship Opportunities
 
-![](https://komarev.com/ghpvc/?username=vishwanathhegde&color=2F855A&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=vishwanathhegde&color=2F855A&label=Profile+Views"/>
 
 </div>
