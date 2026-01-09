@@ -150,7 +150,7 @@ I’m currently seeking a **Working Student or Internship** role to contribute t
 
 ---
 
-### 🌐 Backend (Working Knowledge)
+### 🌐 Backend
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -174,9 +174,13 @@ I’m currently seeking a **Working Student or Internship** role to contribute t
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwanathhegde&theme=radical&hide_border=true"/>
+<!-- GitHub Streak (WORKING) -->
+<img src="https://streak-stats.demolab.com?user=vishwanathhegde&theme=react&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathhegde&layout=compact&theme=radical&hide_border=true"/>
+<br><br>
+
+<!-- Contribution Graph (WORKING) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwanathhegde&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
