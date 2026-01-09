@@ -61,21 +61,11 @@ I’m currently seeking a **Working Student or Internship** role to contribute t
 ### 🧠 Languages
 <table align="center">
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><strong>TypeScript</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br/><strong>JavaScript</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=dart" width="48"/><br/><strong>Dart</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br/><strong>HTML5</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br/><strong>CSS3</strong>
-</td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><strong>TypeScript</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><strong>JavaScript</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=dart" width="48"/><br/><strong>Dart</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><strong>HTML5</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><strong>CSS3</strong></td>
 </tr>
 </table>
 
@@ -84,38 +74,11 @@ I’m currently seeking a **Working Student or Internship** role to contribute t
 ### 🎨 Frontend
 <table align="center">
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=angular" width="48"/><br/><strong>Angular</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=flutter" width="48"/><br/><strong>Flutter</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ionic" width="48"/><br/><strong>Ionic</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><strong>Tailwind CSS</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/><strong>Bootstrap</strong>
-</td>
-</tr>
-</table>
-
----
-
-### 🧩 State & Architecture
-<table align="center">
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=rxjs" width="48"/><br/><strong>RxJS</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=angular" width="48"/><br/><strong>Angular Architecture</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br/><strong>Clean Architecture</strong>
-</td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=angular" width="48"/><br/><strong>Angular</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=flutter" width="48"/><br/><strong>Flutter</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=ionic" width="48"/><br/><strong>Ionic</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><strong>Tailwind CSS</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/><strong>Bootstrap</strong></td>
 </tr>
 </table>
 
@@ -124,27 +87,13 @@ I’m currently seeking a **Working Student or Internship** role to contribute t
 ### 🛠 Tools & Platforms
 <table align="center">
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><strong>Git</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br/><strong>GitHub</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br/><strong>GitLab</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><strong>VS Code</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br/><strong>Android Studio</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=xcode" width="48"/><br/><strong>Xcode</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><strong>Postman</strong>
-</td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><strong>Git</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><strong>GitHub</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br/><strong>GitLab</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><strong>VS Code</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br/><strong>Android Studio</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=xcode" width="48"/><br/><strong>Xcode</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><strong>Postman</strong></td>
 </tr>
 </table>
 
@@ -153,18 +102,10 @@ I’m currently seeking a **Working Student or Internship** role to contribute t
 ### 🌐 Backend
 <table align="center">
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><strong>Node.js</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=express" width="48"/><br/><strong>Express.js</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><strong>MySQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><strong>MongoDB</strong>
-</td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><strong>Node.js</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><strong>Express.js</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><strong>MySQL</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><strong>MongoDB</strong></td>
 </tr>
 </table>
 
@@ -174,13 +115,6 @@ I’m currently seeking a **Working Student or Internship** role to contribute t
 
 <div align="center">
 
-<!-- GitHub Streak (WORKING) -->
-<!-- <img src="https://streak-stats.demolab.com?user=vishwanathhegde&theme=react&hide_border=true" /> -->
-<img src="https://streak-stats.demolab.com?user=VishwanathHegde" />
-
-<br><br>
-
-<!-- Contribution Graph (WORKING) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwanathhegde&theme=react-dark&hide_border=true&area=true" />
 
 </div>
