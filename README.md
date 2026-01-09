@@ -175,7 +175,8 @@ I’m currently seeking a **Working Student or Internship** role to contribute t
 <div align="center">
 
 <!-- GitHub Streak (WORKING) -->
-<img src="https://streak-stats.demolab.com?user=vishwanathhegde&theme=react&hide_border=true" />
+<!-- <img src="https://streak-stats.demolab.com?user=vishwanathhegde&theme=react&hide_border=true" /> -->
+<img src="https://streak-stats.demolab.com?user=VishwanathHegde" />
 
 <br><br>
 
